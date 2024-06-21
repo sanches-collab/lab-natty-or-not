@@ -1,6 +1,6 @@
 # Juntando Forças com a IA: Não é pra ser fake e sim autêntico
 
-## 📒 Escrevi um artigo,usando o Chatgpt sobre as principais perguntas que as pessoas mais fazem sobre IAs generativas e dei minha opinião no final.
+## 📒 Escrevi um artigo,usando o Chatgpt sobre as principais perguntas que as pessoas mais fazem sobre IAs generativas e dei minha opinião e conclusão no final.
 
 ## 🤖 Tecnologias Utilizadas
 Conteúdo: Chatgpt 
